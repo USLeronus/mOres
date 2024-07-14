@@ -1,3 +1,8 @@
+v4.4.3 (1.19.2)
+- Set meme sounds to false as default in the config
+- Added bronze tool / armor smelting back to bronze nuggets
+- Updated Forge version (43.3.5 -> 43.4.2)
+
 v4.4.2 (1.19.2)
 - Removed natural duck generation indefinitely
 - Added duck egg which has a 25% chance of spawning a duck; found in pillager outposts & shipwrecks

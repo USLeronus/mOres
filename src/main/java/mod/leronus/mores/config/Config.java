@@ -475,9 +475,9 @@ public class Config {
 
         builder.comment("The sound configuration for this mod").push(CATEGORY_SOUNDS).pop();
 
-        enableCustomDeathSounds = getBoolean(builder, "enableCustomDeathSounds", CATEGORY_SOUNDS, true, "Whether to enable custom death sounds. Includes bruh & uyêeh sounds.");
-        enableCustomPlayerSleepingSound = getBoolean(builder, "enableCustomPlayerSleepingSound", CATEGORY_SOUNDS, true, "Whether to enable custom player sleeping sound. Aauugh.");
-        enableCustomPlayerHurtSound = getBoolean(builder, "enableCustomPlayerHurtSound", CATEGORY_SOUNDS, true, "Whether to enable custom player hurting another player sound. Oof.");
+        enableCustomDeathSounds = getBoolean(builder, "enableCustomDeathSounds", CATEGORY_SOUNDS, false, "Whether to enable custom death sounds. Includes bruh & uyêeh sounds.");
+        enableCustomPlayerSleepingSound = getBoolean(builder, "enableCustomPlayerSleepingSound", CATEGORY_SOUNDS, false, "Whether to enable custom player sleeping sound. Aauugh.");
+        enableCustomPlayerHurtSound = getBoolean(builder, "enableCustomPlayerHurtSound", CATEGORY_SOUNDS, false, "Whether to enable custom player hurting another player sound. Oof.");
     }
 
     private static BooleanValue getBoolean(ForgeConfigSpec.Builder builder, String name, String category, boolean defaultValue, String comment) {
