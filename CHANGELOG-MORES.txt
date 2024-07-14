@@ -1,8 +1,12 @@
+Release v3.2.4
+-
+
 Release v3.2.3
+- Added bronze tool / armor smelting back to bronze nuggets
 - Removed natural duck generation indefinitely
 - Added duck egg which has a 25% chance of spawning a duck; found in pillager outposts & shipwrecks
 - Fixed duck spawn egg (creative)
-- Updated Forge version (40.2.0 -> 40.2.14)
+- Updated Forge version (40.2.0 -> 40.2.21)
 
 Release v3.2.2
 - Updated all moissanite tools & weapons textures
