@@ -1,3 +1,8 @@
+Release v5.3.6
+- Added recipes for bronze tool / armor smelting
+- Added bronze armor as trimmable armor
+- Updated Forge (47.2.19 -> 47.3.5)
+
 Release v5.3.5
 - Removed natural duck generation indefinitely
 - Added duck egg which has a 25% chance of spawning a duck; found in pillager outposts & shipwrecks
