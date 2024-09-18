@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "#minecraft:is_overworld",
-  "features": "mores:sapphire_large_placed",
-  "step": "underground_ores"
-}

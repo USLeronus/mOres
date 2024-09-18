@@ -1,9 +1,0 @@
-{
-  "asset_name": "silver",
-  "description": {
-    "color": "#f5f5f5",
-    "translate": "trim_material.mores.silver"
-  },
-  "ingredient": "mores:silver_ingot",
-  "item_model_index": 0.03
-}

@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "mores:graphene_block",
-    "mores:moissanite_block",
-    "mores:turquoise_block",
-    "mores:onyx_block"
-  ]
-}

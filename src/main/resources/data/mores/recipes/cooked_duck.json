@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "mores:duck"
-  },
-  "result": "mores:cooked_duck",
-  "experience": 0.35,
-  "cookingtime": 200
-}

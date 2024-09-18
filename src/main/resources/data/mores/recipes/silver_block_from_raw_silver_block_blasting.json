@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": "mores:raw_silver_block"
-  },
-  "result": "mores:silver_block",
-  "experience": 7.8,
-  "cookingtime": 900
-}

@@ -1,4 +1,0 @@
-Release v5.8.0
-- Duck egg temporarily disabled due to version update
-- Updated Minecraft version (1.20.3 -> 1.20.4)
-

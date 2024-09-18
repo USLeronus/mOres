@@ -1,9 +1,0 @@
-{
-  "asset_name": "turquoise",
-  "description": {
-    "color": "#80FFAA",
-    "translate": "trim_material.mores.turquoise"
-  },
-  "ingredient": "mores:turquoise_gem",
-  "item_model_index": 0.13
-}

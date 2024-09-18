@@ -1,9 +1,0 @@
-{
-  "asset_name": "tanzanite",
-  "description": {
-    "color": "#5900B3",
-    "translate": "trim_material.mores.tanzanite"
-  },
-  "ingredient": "mores:tanzanite_gem",
-  "item_model_index": 0.08
-}

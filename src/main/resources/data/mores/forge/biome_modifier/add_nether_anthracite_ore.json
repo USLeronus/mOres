@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "#minecraft:is_nether",
-  "features": "mores:nether_anthracite_placed",
-  "step": "underground_ores"
-}

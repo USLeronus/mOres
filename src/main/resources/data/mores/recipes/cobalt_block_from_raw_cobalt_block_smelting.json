@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "mores:raw_cobalt_block"
-  },
-  "result": "mores:cobalt_block",
-  "experience": 7.0,
-  "cookingtime": 1800
-}

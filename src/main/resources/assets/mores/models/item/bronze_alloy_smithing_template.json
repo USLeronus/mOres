@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures":
-  {
-    "layer0": "mores:item/bronze_alloy_smithing_template"
-  }
-}

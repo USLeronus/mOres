@@ -1,9 +1,0 @@
-{
-  "asset_name": "cobalt",
-  "description": {
-    "color": "#ABCBFF",
-    "translate": "trim_material.mores.cobalt"
-  },
-  "ingredient": "mores:cobalt_ingot",
-  "item_model_index": 0.16
-}

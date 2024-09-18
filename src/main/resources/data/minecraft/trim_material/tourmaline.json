@@ -1,9 +1,0 @@
-{
-  "asset_name": "tourmaline",
-  "description": {
-    "color": "#FF99DD",
-    "translate": "trim_material.mores.tourmaline"
-  },
-  "ingredient": "mores:tourmaline_gem",
-  "item_model_index": 0.07
-}
